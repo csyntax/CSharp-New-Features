@@ -1,0 +1,6 @@
+C:\Users\csyntax\Desktop\CSharp-New-Features\AutoPropertyEnhancements\bin\Debug\AutoPropertyEnhancements.exe.config
+C:\Users\csyntax\Desktop\CSharp-New-Features\AutoPropertyEnhancements\bin\Debug\AutoPropertyEnhancements.exe
+C:\Users\csyntax\Desktop\CSharp-New-Features\AutoPropertyEnhancements\bin\Debug\AutoPropertyEnhancements.pdb
+C:\Users\csyntax\Desktop\CSharp-New-Features\AutoPropertyEnhancements\obj\Debug\AutoPropertyEnhancements.csprojResolveAssemblyReference.cache
+C:\Users\csyntax\Desktop\CSharp-New-Features\AutoPropertyEnhancements\obj\Debug\AutoPropertyEnhancements.exe
+C:\Users\csyntax\Desktop\CSharp-New-Features\AutoPropertyEnhancements\obj\Debug\AutoPropertyEnhancements.pdb
