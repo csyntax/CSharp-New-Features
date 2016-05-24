@@ -1,0 +1,6 @@
+C:\Users\csyntax\Desktop\CSharp-New-Features\UsingStatic\bin\Debug\UsingStatic.exe.config
+C:\Users\csyntax\Desktop\CSharp-New-Features\UsingStatic\bin\Debug\UsingStatic.exe
+C:\Users\csyntax\Desktop\CSharp-New-Features\UsingStatic\bin\Debug\UsingStatic.pdb
+C:\Users\csyntax\Desktop\CSharp-New-Features\UsingStatic\obj\Debug\UsingStatic.csprojResolveAssemblyReference.cache
+C:\Users\csyntax\Desktop\CSharp-New-Features\UsingStatic\obj\Debug\UsingStatic.exe
+C:\Users\csyntax\Desktop\CSharp-New-Features\UsingStatic\obj\Debug\UsingStatic.pdb
