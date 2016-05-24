@@ -1,0 +1,6 @@
+C:\Users\csyntax\Desktop\CSharp-New-Features\StringInterpolation\bin\Debug\StringInterpolation.exe.config
+C:\Users\csyntax\Desktop\CSharp-New-Features\StringInterpolation\bin\Debug\StringInterpolation.exe
+C:\Users\csyntax\Desktop\CSharp-New-Features\StringInterpolation\bin\Debug\StringInterpolation.pdb
+C:\Users\csyntax\Desktop\CSharp-New-Features\StringInterpolation\obj\Debug\StringInterpolation.csprojResolveAssemblyReference.cache
+C:\Users\csyntax\Desktop\CSharp-New-Features\StringInterpolation\obj\Debug\StringInterpolation.exe
+C:\Users\csyntax\Desktop\CSharp-New-Features\StringInterpolation\obj\Debug\StringInterpolation.pdb
