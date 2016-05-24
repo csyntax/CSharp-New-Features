@@ -1,0 +1,6 @@
+C:\Users\csyntax\Desktop\CSharp-New-Features\IndexInitializers\bin\Debug\IndexInitializers.exe.config
+C:\Users\csyntax\Desktop\CSharp-New-Features\IndexInitializers\bin\Debug\IndexInitializers.exe
+C:\Users\csyntax\Desktop\CSharp-New-Features\IndexInitializers\bin\Debug\IndexInitializers.pdb
+C:\Users\csyntax\Desktop\CSharp-New-Features\IndexInitializers\obj\Debug\IndexInitializers.csprojResolveAssemblyReference.cache
+C:\Users\csyntax\Desktop\CSharp-New-Features\IndexInitializers\obj\Debug\IndexInitializers.exe
+C:\Users\csyntax\Desktop\CSharp-New-Features\IndexInitializers\obj\Debug\IndexInitializers.pdb
